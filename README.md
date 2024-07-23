@@ -1,10 +1,5 @@
 # Malaysian-Amateur-Radio-Callsign-Search
 
-Here are the setup instructions with commands included:
-
----
-
-# Node.js Callsign Search Tool
 
 ## Setup Instructions
 
