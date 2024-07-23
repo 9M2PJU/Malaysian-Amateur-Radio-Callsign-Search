@@ -18,7 +18,7 @@ cd public
 
 create index.html
 
-create the CSS file
+create the styles.css
 
 create the script.js
 
