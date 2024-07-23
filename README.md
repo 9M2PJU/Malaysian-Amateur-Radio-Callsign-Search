@@ -36,3 +36,6 @@ public/script.js: The JavaScript file for frontend logic.
 
 package.json: The project configuration file with "type": "module".
 
+![image](https://github.com/user-attachments/assets/ad47a784-8245-4e92-9cb8-2bbe6c3db120)
+
+
