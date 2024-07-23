@@ -1,0 +1,16 @@
+{
+  "name": "callsign-query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
