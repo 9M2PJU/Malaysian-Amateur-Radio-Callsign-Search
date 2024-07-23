@@ -59,7 +59,7 @@ Your Node.js server will now be running and accessible at `http://localhost:3000
 
 ---
 
-You can replace `nano` with your preferred text editor.
+
 
 ![image](https://github.com/user-attachments/assets/ad47a784-8245-4e92-9cb8-2bbe6c3db120)
 
