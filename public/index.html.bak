@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Malaysian Ham Radio Callsign Query Tool by 9M2PJU</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+	    <h1>Malaysian Ham Radio Callsign Query Tool by 9M2PJU</h1>
+        <form id="callsign-form">
+            <input type="text" id="callsign-input" placeholder="Enter Callsign" required>
+            <button type="submit">Search</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
