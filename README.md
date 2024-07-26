@@ -32,7 +32,7 @@
 1. **Clone this repo and Navigate to Project Directory**
    ```bash
    git clone https://github.com/9M2PJU/Malaysian-Amateur-Radio-Callsign-Search.git callsign-query
-   cd Malaysian-Amateur-Radio-Callsign-Search
+   cd callsign-query
    ```
 
 2. **Initialize a New Node.js Project**
