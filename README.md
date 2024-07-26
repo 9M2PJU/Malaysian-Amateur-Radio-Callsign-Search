@@ -82,6 +82,7 @@ Your Node.js server will now be running and accessible at `http://localhost:7388
 
 
 
-![image](https://github.com/user-attachments/assets/ad47a784-8245-4e92-9cb8-2bbe6c3db120)
+![image](https://github.com/user-attachments/assets/dc0bc51a-e0b0-4576-92a6-212e6b13cbce)
+
 
 
