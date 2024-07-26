@@ -13,7 +13,7 @@
 
 1. **You can rebuild the image if the premade is not suitable for your system archs or if you have modified the codes. Clone this repo.**
    ```bash
-   git clone https://github.com/bizkut/Malaysian-Amateur-Radio-Callsign-Search.git callsign-query
+   git clone https://github.com/9M2PJU/Malaysian-Amateur-Radio-Callsign-Search.git callsign-query
    ```
 
 2. **Navigate to Project Directory and build**
@@ -31,7 +31,7 @@
 
 1. **Clone this repo and Navigate to Project Directory**
    ```bash
-   git clone https://github.com/bizkut/Malaysian-Amateur-Radio-Callsign-Search.git callsign-query
+   git clone https://github.com/9M2PJU/Malaysian-Amateur-Radio-Callsign-Search.git callsign-query
    cd callsign-query
    ```
 
