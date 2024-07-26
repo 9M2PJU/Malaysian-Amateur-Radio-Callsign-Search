@@ -18,7 +18,7 @@
 
 2. **Navigate to Project Directory and build**
    ```bash
-   cd callsign-query
+   cd Malaysian-Amateur-Radio-Callsign-Search
    docker build -t callsign-query .
    ```
 
@@ -32,7 +32,7 @@
 1. **Clone this repo and Navigate to Project Directory**
    ```bash
    git clone https://github.com/9M2PJU/Malaysian-Amateur-Radio-Callsign-Search.git callsign-query
-   cd callsign-query
+   cd Malaysian-Amateur-Radio-Callsign-Search
    ```
 
 2. **Initialize a New Node.js Project**
