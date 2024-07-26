@@ -1,5 +1,13 @@
 # Malaysian-Amateur-Radio-Callsign-Search
 
+## Quick Setup
+
+1. **Use Docker**
+```bash
+docker run -d -p 7388:7388 bizkut/callsign-query
+```
+
+2. **The server will now be running and accessible at `http://localhost:7388`**
 
 ## Setup Instructions
 
@@ -50,7 +58,7 @@
    npm start
    ```
 
-Your Node.js server will now be running and accessible at `http://localhost:3000`.
+Your Node.js server will now be running and accessible at `http://localhost:7388`.
 
 ---
 
